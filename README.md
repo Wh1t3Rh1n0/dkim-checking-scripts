@@ -68,3 +68,8 @@ cp -v MailFail/DKIM_Selectors.txt ./
 
 
 
+---
+
+## Credits
+
+- Big thanks to [@ACK-J](https://github.com/ACK-J) for his work on [MailFail](https://github.com/ACK-J/MailFail) and the list of DKIM selectors used by these scripts! 🙂
